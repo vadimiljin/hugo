@@ -2,6 +2,9 @@
 title: Hugo
 timezone: UTC
 collections:
+  dj-muffler:
+    title: DJ Muffler
+    output: true
   posts:
     title: Posts
     output: true
